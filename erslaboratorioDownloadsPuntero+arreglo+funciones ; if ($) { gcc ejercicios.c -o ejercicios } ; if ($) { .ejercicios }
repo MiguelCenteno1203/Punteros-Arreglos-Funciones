@@ -1,0 +1,11 @@
+[33mcommit 1e5b18b5732472ba05cb3b7c57971e04edb01a62[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: MiguelCenteno1203 <mcentenom1203@gmail.com>
+Date:   Mon May 18 12:11:47 2026 -0500
+
+    prototipo de la función calcularPromedio
+
+[33mcommit 293c45c76925db8782779302dd098715e74c011c[m
+Author: MiguelCenteno1203 <mcentenom1203@gmail.com>
+Date:   Mon May 18 12:01:20 2026 -0500
+
+    Definición básica de vector
